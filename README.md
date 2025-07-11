@@ -36,7 +36,7 @@ In this project, we:
 
 ## 📂 Dataset
 
-The dataset used in this project was sourced from publicly available Netflix content data. It includes details like title, director, cast, country, release date, duration, and more.
+Unified Mentor sourced the dataset used in this project during my internship. It includes details like title, director, cast, country, release date, duration, and more.
 
 ---
 
@@ -55,7 +55,7 @@ The dataset used in this project was sourced from publicly available Netflix con
 - Predicting content success based on metadata
   
 
-## 🎥 Dashboard
+## 📊 Dashboard
 
 
 
