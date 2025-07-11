@@ -62,5 +62,8 @@ Unified Mentor sourced the dataset used in this project during my internship. It
 
 <img width="1920" height="1042" alt="Screenshot (74)" src="https://github.com/user-attachments/assets/287697c3-39a1-4791-9d6a-075d04fb77de" />
 
+## 🙌 Acknowledgements
+
+Thanks to Unified Mentor for providing the data that inspired this analysis.
 
 
