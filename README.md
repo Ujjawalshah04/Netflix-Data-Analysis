@@ -55,9 +55,12 @@ The dataset used in this project was sourced from publicly available Netflix con
 - Predicting content success based on metadata
   
 
+## 🎥 Dashboard
 
 
 
+
+<img width="1920" height="1042" alt="Screenshot (74)" src="https://github.com/user-attachments/assets/287697c3-39a1-4791-9d6a-075d04fb77de" />
 
 
 
